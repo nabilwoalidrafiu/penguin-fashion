@@ -12,6 +12,12 @@ h3{
     background-color: #363958;
     color:white;
 }
+#shopping{
+    padding: 50px 0;
+}
+.shopping-icon-img{
+    width: 80px;
+}
 .backpack-card{
     border: 0;
     
@@ -31,13 +37,25 @@ h3{
     color:white;
     padding:5px 10px;
 }
-#shopping{
-    padding: 50px 0;
-}
+
 #backpack{
     margin-top: 100px;
     margin-bottom: 100px;
 }
-.shopping-icon-img{
-    width: 80px;
+
+footer{
+    background-color: #FFFFF4;
+    padding-top: 50px;
+
 }
+footer a{
+    text-decoration: none;
+    color: black;
+}
+.footer-row{
+    margin-top: 50px;
+}
+.extra-col2{
+    margin-top: 20px;
+}
+
