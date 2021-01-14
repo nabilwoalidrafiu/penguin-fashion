@@ -1,0 +1,40 @@
+header{
+    background-color: #FFFFF4;
+}
+h1, h4, h5{
+    color: #363958;
+    
+}
+h3{
+    color: #76C27E;
+}
+.backpack-moon button{
+    background-color: #363958;
+    color:white;
+}
+.backpack-card{
+    border: 0;
+    
+    
+}
+.backpack-photo{
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    padding: 0 10px;
+}
+.backpack-footer{
+    background-color: #fff;
+    border: none;
+}
+.backpack-footer button{
+    background-color: #363958;
+    color:white;
+    padding:5px 10px;
+}
+#shopping{
+    padding: 50px 0;
+}
+#backpack{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
