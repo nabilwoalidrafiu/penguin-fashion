@@ -1,3 +1,3 @@
 # second-assignment
-#bootstrap
-#penguine fashion
+bootstrap
+penguine fashion
